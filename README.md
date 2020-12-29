@@ -1,6 +1,4 @@
-# B22 程序模拟器
-
-Darc Z.的面向对象课程设计作业。包括README在内的全部文件都为原创(除LICENSE)。
+# 程序模拟器
 
 Copyright @DarcJC. Following Anti-996 License Version 1.0.
 
